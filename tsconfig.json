@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./resources/js/*"],
+      "ziggy-js": ["./vendor/tightenco/ziggy"]
+    },
+    "jsx": "react-jsx",
+    "strict": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "resources/js/**/*.ts",
+    "resources/js/**/*.d.ts",
+    "resources/js/**/*.tsx",
+    "resources/js/**/*"
+  ]
+}
