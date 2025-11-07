@@ -1,11 +1,13 @@
-Alicia Chabane
-
 
 # 🎮 Game Zone
 
 Game Zone est une application e-commerce permettant d'acheter des jeux vidéo en ligne.  
 L’utilisateur peut parcourir le catalogue, consulter les détails des jeux, et les ajouter à son panier pour les acheter.
 
+---
+
+👤 
+Alicia Chabane
 ---
 
 ## 🛠️ Technologies utilisées
